@@ -7,7 +7,7 @@ import android.content.SharedPreferences;
 import android.net.Uri;
 import android.provider.Settings;
 
-import androidx.core.app.NotificationManagerCompat;
+import android.support.v4.app.NotificationManagerCompat
 
 import com.facebook.react.bridge.Arguments;
 import com.facebook.react.bridge.Promise;
